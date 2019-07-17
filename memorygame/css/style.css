@@ -1,0 +1,47 @@
+body{
+	text-align: center;
+	margin: 0px;
+}
+h1{
+	font-family: Raleway;
+	color: #0D2c40;
+	letter-spacing: 1px;
+	font-weight: 400;
+	font-size: 45px;
+	margin: 0px;
+}
+h2{
+	font-family: Raleway;
+	color: #f15b31;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 18px;
+}
+h3{
+	font-family: Raleway;
+	color: #0d2c40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;
+}
+header{
+	background-color: #f15b31;
+	font-color: white;
+	padding:30px 20px;
+}
+nav{
+	background-color:#00A6B3;
+	font-color: white;
+	padding: 20px 0px;
+}
+main{
+	width: 850px;
+	margin: 35px auto;
+}
+a{
+	margin: 0 20px;
+	font-color: white;
+}
+img{
+	margin: 40px 8px;
+}
