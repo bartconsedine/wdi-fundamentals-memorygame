@@ -27,6 +27,7 @@ letter-spacing: 1px;
 font-weight: 600;
 font-size: 18px;
 text-transform: uppercase;
+text-decoration: none;
 color: #ffffff;
 padding: 20px 0;
 border-bottom: 2px solid transparent;
@@ -62,6 +63,7 @@ main{
 img{
 	margin: 40px 8px;
 }
+
 
 footer{
 	text-transform: uppercase;
